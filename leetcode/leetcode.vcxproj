@@ -146,49 +146,73 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
+    <ClInclude Include="CoinChange.h" />
+    <ClInclude Include="DivideTwoIntegers.h" />
+    <ClInclude Include="FindFirstandLastPositionofElementinSortedArray.h" />
     <ClInclude Include="FourSum.h" />
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="ImplementStrStr.h" />
     <ClInclude Include="LetterCombinationsOfPhoneNumber.h" />
+    <ClInclude Include="LongestValidParentheses.h" />
     <ClInclude Include="MergeKSortedLists.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
+    <ClInclude Include="NextPermutation.h" />
+    <ClInclude Include="OnesAndZeros.h" />
+    <ClInclude Include="PartitionEqualSubsetSum.h" />
     <ClInclude Include="RemoveDuplicatesFromSortedArray.h" />
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="RemoveNthFromEnd.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="ReverseNodesInKGroup.h" />
+    <ClInclude Include="SearchInsertPosition.h" />
+    <ClInclude Include="SearchRotatedSortedArray.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="SubstringWithConcatenation.h" />
+    <ClInclude Include="SudokuSolver.h" />
     <ClInclude Include="SwapNodesInPairs.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="ThreeSum.h" />
     <ClInclude Include="ThreeSumClosest.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="ValidParentheses.h" />
+    <ClInclude Include="ValidSudoku.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AddTwoNumbers.cpp" />
+    <ClCompile Include="CoinChange.cpp" />
+    <ClCompile Include="DivideTwoIntegers.cpp" />
+    <ClCompile Include="FindFirstandLastPositionofElementinSortedArray.cpp" />
     <ClCompile Include="FourSum.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
     <ClCompile Include="ImplementStrStr.cpp" />
     <ClCompile Include="leetcode.cpp" />
     <ClCompile Include="LetterCombinationsOfPhoneNumber.cpp" />
+    <ClCompile Include="LongestValidParentheses.cpp" />
     <ClCompile Include="MergeKSortedLists.cpp" />
     <ClCompile Include="MergeTwoSortedLists.cpp" />
+    <ClCompile Include="NextPermutation.cpp" />
+    <ClCompile Include="OnesAndZeros.cpp" />
+    <ClCompile Include="PartitionEqualSubsetSum.cpp" />
     <ClCompile Include="RemoveDuplicatesFromSortedArray.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="RemoveNthFromEnd.cpp" />
     <ClCompile Include="ReverseNodesInKGroup.cpp" />
+    <ClCompile Include="SearchInsertPosition.cpp" />
+    <ClCompile Include="SearchRotatedSortedArray.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="SubstringWithConcatenation.cpp" />
+    <ClCompile Include="SudokuSolver.cpp" />
     <ClCompile Include="SwapNodesInPairs.cpp" />
     <ClCompile Include="ThreeSum.cpp" />
     <ClCompile Include="ThreeSumClosest.cpp" />
     <ClCompile Include="TwoSum.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
+    <ClCompile Include="ValidSudoku.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="leetcode.rc" />

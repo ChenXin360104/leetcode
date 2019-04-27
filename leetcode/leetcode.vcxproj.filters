@@ -75,6 +75,42 @@
     <ClInclude Include="ImplementStrStr.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="DivideTwoIntegers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SubstringWithConcatenation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NextPermutation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestValidParentheses.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchRotatedSortedArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindFirstandLastPositionofElementinSortedArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInsertPosition.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidSudoku.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SudokuSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CoinChange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionEqualSubsetSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OnesAndZeros.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -129,6 +165,42 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ImplementStrStr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DivideTwoIntegers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SubstringWithConcatenation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NextPermutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestValidParentheses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchRotatedSortedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FindFirstandLastPositionofElementinSortedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchInsertPosition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidSudoku.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SudokuSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CoinChange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PartitionEqualSubsetSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OnesAndZeros.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
