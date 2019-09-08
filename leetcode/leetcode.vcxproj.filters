@@ -111,6 +111,18 @@
     <ClInclude Include="OnesAndZeros.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CountAndSay.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSumII.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstMissingPositive.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -201,6 +213,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="OnesAndZeros.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CountAndSay.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinationSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinationSumII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstMissingPositive.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

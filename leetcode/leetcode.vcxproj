@@ -147,8 +147,12 @@
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="CoinChange.h" />
+    <ClInclude Include="CombinationSum.h" />
+    <ClInclude Include="CombinationSumII.h" />
+    <ClInclude Include="CountAndSay.h" />
     <ClInclude Include="DivideTwoIntegers.h" />
     <ClInclude Include="FindFirstandLastPositionofElementinSortedArray.h" />
+    <ClInclude Include="FirstMissingPositive.h" />
     <ClInclude Include="FourSum.h" />
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="ImplementStrStr.h" />
@@ -180,8 +184,12 @@
   <ItemGroup>
     <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="CoinChange.cpp" />
+    <ClCompile Include="CombinationSum.cpp" />
+    <ClCompile Include="CombinationSumII.cpp" />
+    <ClCompile Include="CountAndSay.cpp" />
     <ClCompile Include="DivideTwoIntegers.cpp" />
     <ClCompile Include="FindFirstandLastPositionofElementinSortedArray.cpp" />
+    <ClCompile Include="FirstMissingPositive.cpp" />
     <ClCompile Include="FourSum.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
     <ClCompile Include="ImplementStrStr.cpp" />

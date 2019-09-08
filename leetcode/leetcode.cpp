@@ -6,17 +6,16 @@
 #include <iostream>
 #include <vector>
 
-#include "OnesAndZeros.h"
+#include "FirstMissingPositive.h"
 using namespace std;
 
 int main()
 {
-	OnesAndZeros s;
+	FirstMissingPositive s;
 
-	vector<string> arr = { "0","1101","01","00111","1","10010","0","0","00","1","11","0011" };
-	int m = 63, n = 36;
-	int r = s.findMaxForm(arr, m, n);
-	cout << r << endl;
+	vector<int> nums = { 1,2,3 };
+	int result = s.firstMissingPositive(nums);
+	cout << result << endl;
 	return 0;
 }
 
